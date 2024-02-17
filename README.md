@@ -1,6 +1,6 @@
 - Hi, I’m Utkarsh Jain
 - I love to code and love to learn new stuff about coding
-- I’m currently learning React js
+- I’m currently learning React
 - You can reach me at utkarshjainx1@gmail.com or dm me on instagram at @wolfhunter437
 
 <!---
